@@ -1,4 +1,4 @@
-        var dragItem = document.querySelector(".box");
+    var dragItem = document.querySelector(".box");
     var container = document.querySelector(".container");
 
     var active = false;
